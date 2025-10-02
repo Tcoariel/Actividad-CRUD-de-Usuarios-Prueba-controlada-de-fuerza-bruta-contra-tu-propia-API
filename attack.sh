@@ -7,7 +7,7 @@ WORDLIST="wordlist.txt"
 LOGFILE="attack_log.txt"
 
 
-DEFAULT_PASSWORDS=("0000" "1111" "123456" "password" "admin123")
+DEFAULT_PASSWORDS=("1234" "0000" "1111" "123456" "password" "admin123")
 
 echo "=== Fuerza bruta controlada ===" > "$LOGFILE"
 echo "Objetivo: $URL  usuario: $USER" | tee -a "$LOGFILE"
