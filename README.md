@@ -23,6 +23,8 @@ sed -i 's/\r$//' attack.sh
 chmod +x attack.sh
 ./attack.sh
 
+Para crear usuarios necesita entrar en: http://127.0.0.1:8000/docs y seguir los pasos
+
 Objetivo del experimento
 Realizar pruebas de ataques de fuerza bruta para encontrar contraseñas en un ambiente controlado como en este caso el entorno virtual
 Comprender los comandos para usar API
