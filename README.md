@@ -28,6 +28,7 @@ Realizar pruebas de ataques de fuerza bruta para encontrar contraseñas en un am
 Comprender los comandos para usar API
 
 Pruebas
+
 <img width="601" height="366" alt="image" src="https://github.com/user-attachments/assets/9b805708-03ec-4842-baa3-debb88912dcb" />
 
 <img width="579" height="369" alt="image" src="https://github.com/user-attachments/assets/95757ee4-1126-426a-a980-0c968e59146f" />
